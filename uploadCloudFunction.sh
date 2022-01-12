@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-2gxcqyppf79e2c72 --n quickstartFunctions --r --project "/Users/y/Desktop/TOT_Calculator/Calculator_mini" --report_first --report
